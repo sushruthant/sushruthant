@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sushruthant
-- 👀 I’m interested in Data Unleashing Insights with Python, R, and SQL | Passionate about Analytical Thinking and Deep Learning
+- 👀 I’m interested in Data Unleashing Insights into Analytical Thinking and Deep Learning
 - 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate on Future Data Analyst & Scientist Driving Innovation
 - 📫 How to reach me sushruthant@gmail.com
